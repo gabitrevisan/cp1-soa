@@ -1,4 +1,4 @@
-package com.github.gabitrevisan.cp1;
+package com.github.gabitrevisan.cp1.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
